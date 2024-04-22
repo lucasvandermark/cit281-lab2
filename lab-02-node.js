@@ -1,5 +1,5 @@
 /*
-    CIT 281 Lab 1
+    CIT 281 Lab 2
     Name: Lucas Van Dermark
 */
 function square(num) {
